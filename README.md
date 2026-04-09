@@ -1,2 +1,3 @@
 # ML-zet-A-
-özet çıkarıcı model
+Özet çıkarıcı model
+Yazılan şeylerin özetini çıkarır ama hata verebilir.
